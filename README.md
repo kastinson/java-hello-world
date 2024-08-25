@@ -16,7 +16,7 @@ public class HelloWorld {
 
 ## Compile program
 
-To compile the "Hello World" program, type the following:
+To compile the "Hello World" program, type the following command in Terminal:
 
 ```console
 javac HelloWorld.java
@@ -24,7 +24,7 @@ javac HelloWorld.java
 
 ## Excute the program
 
-To execute the program, type this:
+To execute the program, type the following command in Terminal:
 
 ```console
 java HelloWorld
